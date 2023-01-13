@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aj
+- 👋 Hi
 - 👀 I’m interested in web development
 - 💞️ I love to explore new technology
 
